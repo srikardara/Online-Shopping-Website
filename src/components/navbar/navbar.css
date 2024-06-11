@@ -1,0 +1,47 @@
+
+ul{
+    list-style: none;
+    display: flex;
+    gap: 10px;
+    justify-content: end;
+    margin-right:50px ;
+    float: right;
+    padding-top: 21px;
+}
+.main{
+    background-color: rgb(244, 117, 160);    
+}
+li a{
+    text-decoration: none;
+    color: black;
+    
+}
+.wea{
+    margin-right: 200px;
+}
+.title{
+
+    font-style:italic;
+    font-weight: 500;
+    margin-right: 202px;
+    font-size: 25px;
+}
+.wear{
+    margin-right: 641px;
+    margin-top: 9px;
+}
+.wea{
+    margin-right: 30px;
+    margin-top: 9px;
+}
+.we{
+    margin-right: 30px;
+    margin-top: 9px;
+}
+.logo{
+    margin: 20px;
+    width: 30px;
+    height: 30px;
+    display: inline-block;
+    color: black;
+}

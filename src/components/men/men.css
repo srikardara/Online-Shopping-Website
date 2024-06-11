@@ -1,0 +1,52 @@
+.imgm{
+    text-align: center;
+ 
+}
+h5{
+    text-align: center;
+    color: rgb(91, 99, 142);
+}
+h3{
+    text-align: center;
+    color: rgb(38, 81, 123);
+
+}
+img{
+    padding: 10px;
+}
+.a{
+    height: 200px;
+}
+.sty{
+    background-image: url("https://png.pngtree.com/background/20230224/original/pngtree-watercolor-green-and-yellow-mixed-background-for-digital-painting-design-picture-image_2054142.jpg");
+    background-size: cover; /* Cover the entire viewport */
+    background-position: center; /* Center the background image */
+    background-repeat: no-repeat; 
+
+}
+h1{
+    font-style: italic;
+    text-align: center;
+    color:rgb(97, 97, 239);
+}
+.v{
+    border: 4px solid rgb(84, 99, 129);
+    margin: 21px;
+    background-color: rgb(231, 159, 231);
+}
+.adv{
+    width: 100%;
+    height: 500px;
+}
+.k{
+    width: 88%;
+    height: 400px;
+    margin-left: 80px;
+}
+.bt{
+    background-color:orange;
+    margin: 10px;
+    width: 120px;
+    text-align: center;
+    margin-left: 36px;
+}

@@ -1,0 +1,34 @@
+.form1{
+    text-align: center;
+    margin-top: 30px;
+    border: 2px solid black;
+    box-shadow: 2px 2px 2px black;
+    width: 350px;
+    height: 300px;
+}
+.err{
+    color: rgb(235, 23, 23);
+}
+.main6{
+    margin-left: 600px;
+    margin-top: 30px;
+}
+.user8,.pass{
+    margin: 20px;
+}
+button{
+    margin-top: 10px;
+    width:190px;
+    background-color: rgb(233, 17, 89);
+     color: white;
+     padding: 6px;
+}
+h3{
+    font-size: 20px;
+    margin-bottom: 25px;
+
+}
+img{
+    width: 350px;
+    height: 150px;
+}

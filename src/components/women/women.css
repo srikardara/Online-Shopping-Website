@@ -1,0 +1,16 @@
+.adv1{
+   padding: 16px;
+    height: 310px;
+    transition: transform 0.4s;
+}
+
+.v {
+    background-color: white;
+    
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Add hover effect to .adv1 */
+.adv1:hover {
+    transform: scale(1.08); /* Scale up on hover */
+}
